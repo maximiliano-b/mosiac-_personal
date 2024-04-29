@@ -1,0 +1,38 @@
+[
+  {
+    "state": "AZ",
+    "dateViolation": "2023-06-12",
+    "violationType": "Read Light",
+    "photoName": "images/photo1.jpg"
+  },
+  {
+    "state": "CA",
+    "dateViolation": "2021-09-25",
+    "violationType": "Parking",
+    "photoName": "images/photo2.jpg"
+  },
+  {
+    "state": "NY",
+    "dateViolation": "2022-11-03",
+    "violationType": "DUI",
+    "photoName": "images/photo3.jpg"
+  },
+  {
+    "state": "FL",
+    "dateViolation": "2020-07-18",
+    "violationType": "Expired License",
+    "photoName": "images/photo4.jpg"
+  },
+  {
+    "state": "TX",
+    "dateViolation": "2022-02-09",
+    "violationType": "Running Red Light",
+    "photoName": "images/photo5.jpg"
+  },
+  {
+    "state": "IL",
+    "dateViolation": "2021-04-30",
+    "violationType": "Reckless Driving",
+    "photoName": "images/photo6.jpg"
+  }
+]
